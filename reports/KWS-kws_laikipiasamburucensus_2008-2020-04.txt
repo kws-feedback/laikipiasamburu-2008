@@ -1,0 +1,54 @@
+Report for Institution Code KWS, Resource kws_laikipiasamburucensus_2008
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 6280
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 35
+	Country: United States ; Times: 3
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 6
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-21 ; Times: 28
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Tragelaphus oryx" ; Times: 4
+	Query: "asinus" ; Times: 2
+	Query: "Tragelaphus strepsiceros" ; Times: 4
+	Query: "Tragelaphus imberbis" ; Times: 4
+	Query: "Bos taurus" ; Times: 3
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Capra aegagrus mappable:1" ; Times: 1
+	Query: "Capra hircus" ; Times: 2
+	Query: "Phacochoerus africanus" ; Times: 4
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "Equus asinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1171 download events in this period)
+Total number of records downloaded: 413
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Giraffa camelopardalis" ; Times: 1
+
+
+End of report.
