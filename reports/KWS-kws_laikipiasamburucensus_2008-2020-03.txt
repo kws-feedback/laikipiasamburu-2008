@@ -1,0 +1,53 @@
+Report for Institution Code KWS, Resource kws_laikipiasamburucensus_2008
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 1968
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: South Africa ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-02 ; Times: 11
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oryx specificepithet:beisa" ; Times: 2
+	Query: "equus zebra" ; Times: 4
+	Query: "genus:Tragelaphus specificepithet:strepsiceros" ; Times: 2
+	Query: "genus:Litocranius specificepithet:walleri" ; Times: 2
+	Query: "Bos taurus" ; Times: 1
+	Query: "specificepithet:leo genus:panthera" ; Times: 1
+	Query: "genus:Alcelaphus specificepithet:buselaphus" ; Times: 1
+	Query: "genus:Madoqua specificepithet:guentheri" ; Times: 2
+	Query: "Aepyceros melampus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "genus:Tragelaphus specificepithet:imberbis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 853 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "panthera" ; Times: 1
+
+
+End of report.
