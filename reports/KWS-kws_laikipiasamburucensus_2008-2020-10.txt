@@ -1,0 +1,90 @@
+Report for Institution Code KWS, Resource kws_laikipiasamburucensus_2008
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 7270
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 6
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 23
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-01 ; Times: 1
+	Date: 2020-10-13 ; Times: 6
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-14 ; Times: 8
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-16 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Phacochoerus africanus" ; Times: 5
+	Query: "Lesser kudu" ; Times: 1
+	Query: "specificepithet:imberbis genus:tragelaphus" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:Tragelaphus" ; Times: 1
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "specificepithet:caffer genus:syncerus" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+	Query: "panthera leo" ; Times: 7
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "specificepithet:caffer genus:Syncerus" ; Times: 4
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "equus grevyi" ; Times: 1
+	Query: "institutioncode:kws" ; Times: 1
+	Query: "scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "Bos taurus" ; Times: 4
+	Query: "specificepithet:walleri genus:litocranius" ; Times: 1
+	Query: "quagga" ; Times: 1
+	Query: "giraffe" ; Times: 1
+	Query: "Capra hircus" ; Times: 2
+	Query: "specificepithet:buselaphus genus:alcelaphus" ; Times: 1
+	Query: "specificepithet:granti genus:Nanger" ; Times: 3
+	Query: "Litocranius" ; Times: 1
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "specificepithet:granti genus:nanger" ; Times: 10
+	Query: "Syncerus caffer" ; Times: 3
+	Query: "Panthera leo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1521 download events in this period)
+Total number of records downloaded: 1417
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 4
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melampus genus:aepyceros" ; Times: 1
+	Query: "specificepithet:walleri genus:litocranius" ; Times: 1
+	Query: "specificepithet:ellipsiprymnus genus:kobus" ; Times: 1
+	Query: "specificepithet:imberbis genus:tragelaphus" ; Times: 1
+	Query: "specificepithet:strepsiceros genus:tragelaphus" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "specificepithet:grimmia genus:Sylvicapra" ; Times: 1
+	Query: "Equus grevyi" ; Times: 2
+
+
+End of report.
