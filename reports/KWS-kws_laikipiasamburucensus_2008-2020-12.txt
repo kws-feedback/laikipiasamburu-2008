@@ -1,0 +1,65 @@
+Report for Institution Code KWS, Resource kws_laikipiasamburucensus_2008
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 3446
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Italy ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mozambique ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Kenya ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 9
+	Date: 2020-12-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "nanger" ; Times: 1
+	Query: "mappable:1 scientificname:Giraffa camelopardalis" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "mappable:1 scientificname:Panthera leo" ; Times: 1
+	Query: "mappable:1 scientificname:Hippopotamus amphibius" ; Times: 1
+	Query: "Phacochoerus" ; Times: 2
+	Query: "panthera leo leo" ; Times: 4
+	Query: "papio papio" ; Times: 1
+	Query: "northern monkey" ; Times: 1
+	Query: "mappable:1 scientificname:Ceratotherium simum" ; Times: 1
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "mappable:1 scientificname:Loxodonta africana" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 705 download events in this period)
+Total number of records downloaded: 7510
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "basisofrecord:HumanObservation" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+
+
+End of report.
